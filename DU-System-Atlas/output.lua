@@ -1,9 +1,6 @@
------------------------------------------------------------------------------------
--- Atlas Lua Screen
---
--- This screen provides an example of a stellar atlas based on screen rendering
--- and the local atlas.lua library.
------------------------------------------------------------------------------------
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-System-Atlas
+-- v1.0
 
 ---# Local constants class and objects definition
 local atlas = require("atlas")
