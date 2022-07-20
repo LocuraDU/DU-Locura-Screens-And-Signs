@@ -1,12 +1,14 @@
 local layer = createLayer()
 local rx, ry = getResolution()
 local time = getTime()
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Wave-Text
+-- v1.0
+local font = loadFont("Montserrat", 100)
 
---Waving Text
-local font = loadFont("Montserrat", 150)
 setDefaultTextAlign(layer, AlignH_Left, AlignV_Middle)
 
-local str = "Hello World!"
+local str = "Locura Mining Co!"
 
 local strArray = {}
 for char in string.gmatch(str, ".") do
