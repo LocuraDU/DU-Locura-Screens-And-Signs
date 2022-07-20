@@ -1,2 +1,2 @@
 # DU-LUA-Scripts
-DU Scripts On In Awesome Place
+DU Scripts All In One Awesome Place
