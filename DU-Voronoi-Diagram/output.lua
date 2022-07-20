@@ -4,6 +4,10 @@ local layer = createLayer()
 
 local font = loadFont('FiraMono', 20)
 
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Voronoi-Diagram
+-- v1.0
+
 if not init then
     init = true
     
@@ -28,17 +32,6 @@ if not init then
     end    
 end
 
---[[
-
-
-Based on the work of David Ng taken from here: 
-http://forums.coronalabs.com/topic/1947-does-anyone-have-lua-code-for-delauney-triangulation-or-voronoi-diagram-generation/
-and of Steve J. Fortune (1987) A Sweepline Algorithm for Voronoi Diagrams,
-Algorithmica 2, 153-174, and its translation to C++ by Matt Brubeck, 
-http://www.cs.hmc.edu/~mbrubeck/voronoi.html
-
-the code below is largly from https://love2d.org/forums/viewtopic.php?t=78403
-]]
 --- HEAP ---
 local Heap = {}
 function Heap:new() 
@@ -415,11 +408,7 @@ function voronoi.finishEdges(X0, Y0, X1, Y1)
     end
 end
 
-
-
-
 -- EXPORT --
-
 
 function voronoi.run(points_list, X0, Y0, X1, Y1)
 
@@ -655,5 +644,3 @@ if false then
 end
 
 requestAnimationFrame(1)
-
-
