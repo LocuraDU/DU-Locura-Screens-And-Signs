@@ -24,3 +24,5 @@ Click on each LUA script to see the readme for installing and preview.
 
 # In Game Location
 Our store is located on Alioth at "::pos{0,2,37.6035,88.7006,36.1403}". We have territory clusters (flowers) on every planet in game. Right now in store we sale raw ore, mining rigs, and LUA code.
+
+You may also VR at "Locura Mining Co". 
