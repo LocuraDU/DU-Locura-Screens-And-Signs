@@ -1,7 +1,3 @@
--- https://github.com/EricHamby/DU-LUA-Scripts
--- DU-System-Atlas
--- v1.0
-
 ---# Local constants class and objects definition
 local atlas = require("atlas")
 local json = require("dkjson")
@@ -9,6 +5,10 @@ local rslib = require("rslib")
 local vec3 = require("cpml/vec3")
 
 local system = atlas[0]
+
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-System-Atlas
+-- v1.0
 
 local rx,ry = getResolution()
 
