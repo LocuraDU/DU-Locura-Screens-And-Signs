@@ -1,11 +1,11 @@
 # DU LUA Scripts
 DU Scripts All In One Awesome Place. A hub for code that I have created as well as others. I have a few other repo's but everything will be moved here. Some of "Locura Mining Co" code will remain private for now. 
 
-# Buying LUA
-If you know of something you want thats not listed here but Locura Mining Co is using it, you may contact us to set it up for you at your own place. However most code will be DRM locked. Code listed here will mostly be for sale in our shop if you want in game examples. 
-
 # Install
 Click on each LUA script to see the readme for installing and preview.
+
+# Buying LUA
+If you know of something you want thats not listed here but Locura Mining Co is using it, you may contact us to set it up for you at your own place. However most code will be DRM locked. Code listed here will mostly be for sale in our shop if you want in game examples. 
 
 # Ways To Help
 - Contribute new code, or updating whats already here
