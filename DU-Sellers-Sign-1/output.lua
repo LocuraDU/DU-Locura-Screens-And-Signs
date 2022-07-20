@@ -1,11 +1,12 @@
--- Ship sellar screen by Neocrypter Discord Neocrypter#5266 Free and Open Source
-
 local logo ="assets.prod.novaquark.com/63518/3cc7d62b-5dd1-47eb-89ee-f6edc5ea125b.png"
-
 local shipImage ="assets.prod.novaquark.com/63518/2df209da-9169-4b5e-8b73-7083ecff0807.png"
 
 -- Animated BG on or off --
 local bgAnim = true
+
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Sellers-Sign-1
+-- v1.0
 
 local title = "GSL Plutus"
 local price ="BP: 1,500,000  Token: N/A"
