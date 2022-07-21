@@ -1,6 +1,10 @@
 backLayer = createLayer()
 textLayer = createLayer()
 
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Nodes-Sign
+-- v1.0
+
 if not init then -- Start Init
     init = true
     
