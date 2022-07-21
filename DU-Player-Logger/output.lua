@@ -8,7 +8,7 @@ local font = loadFont('FiraMono', 20)
 local fontAH, fontDH = getFontMetrics(font)
 
 -- https://github.com/EricHamby/DU-LUA-Scripts
--- DU-Wave-Text
+-- DU-Player-Logger
 -- v1.0
 
 -- Set default text color to white
