@@ -7,14 +7,13 @@ local front = createLayer()
 local font = loadFont('FiraMono', 20)
 local fontAH, fontDH = getFontMetrics(font)
 
--- https://github.com/EricHamby/DU-LUA-Scripts
--- DU-Player-Logger
--- v1.0
-
 -- Set default text color to white
 setDefaultFillColor(layer, Shape_Text, 1, 1, 1, 1)
 -- Set background color
 setBackgroundColor( 15/255,24/255,29/255)
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Player-Logger
+-- v3.6     
 
 if not init then
     init = true
@@ -22,6 +21,7 @@ if not init then
     buffer = ""
     comState = ""
 end
+
 -------------------
 -- PB <-> Screen --
 -- Communication --
@@ -85,8 +85,8 @@ end
 local spacing, border = 12, 5
 local fontSmall = loadFont('FiraMono', spacing)
 local text = {
-    'Location: "Retail Store"',
-    "Locura Mining Co v3.8"
+    'Location: "Main Retail"',
+    "DU-Player-Logger v3.6"
 }
 -- find the string with the most width
 local width, height = 0, #text*spacing
