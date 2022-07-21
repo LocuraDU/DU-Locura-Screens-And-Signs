@@ -5,7 +5,7 @@ LUA display for t1-t5 ores, minerals, general storage, and gasses as of patch Be
 
 # Instructions
   - Link Programming Board: Screen & Hub or Container (link order not important).
-  - Copy contents of config.json and right click on programming board > Advanced > Paste Lua configuration from clipboard.
+  - Copy contents of "onfig.json" and right click on programming board > Advanced > Paste Lua configuration from clipboard.
   - Edit Lua Parameters: Set Material Name,  Container Size in KL, and Background Color in Hex value without the "#".
   - Turn on Screen & Activate Board.
 
