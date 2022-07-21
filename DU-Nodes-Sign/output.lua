@@ -25,13 +25,13 @@ if not init then -- Start Init
     
     
     --############# EDIT HERE ##############
-    text = 'T1 ORE' -- What you want it to say
+    text = 'LOCURA MINING CO' -- What you want it to say
     textSize = 100 -- Bigger means bigger, smaller means smaller
     selectedFont = fontStyles[2] -- The Font
-    isVerticalText = true -- False if you want horizontal
+    isVerticalText = false -- False if you want horizontal
     totalDots = 200 -- Too many can crash the script, you have been warned
     dotSpeed = 12 -- How fast the dots CAN move: Speed is random between 0 and selected dot speed
-    textColor = {Red = 1.0, Green = 1.0, Blue = 0.185, Opacity = 1.0} -- Text color and opacity
+    textColor = {Red = 1.0, Green = 1.0, Blue = 1.0, Opacity = 1.0} -- Text color and opacity
     dotColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Dot color and opacity
     lineColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Line color and opacity
     backColor = {Red = 0.05, Green = 0.05, Blue = 0.05} -- Background color
@@ -188,3 +188,4 @@ end
 
 setBackgroundColor(backColor.Red, backColor.Green, backColor.Blue)
 requestAnimationFrame(2)
+
