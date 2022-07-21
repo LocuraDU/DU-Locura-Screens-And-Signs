@@ -1,6 +1,10 @@
 local secondsBetweenImages = 5 -- Number of seconds between images
 local backgroundImage = "assets.prod.novaquark.com/102348/3cf92ccf-e518-4456-9d90-f115b6324b0f.jpg" -- Set to false to disable // backgroundImage = false
 
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Photo-Album
+-- v1.0
+
 if not init then
     init = true
     images = { -- Add all your images to this table, as strings seperated by comma's.
