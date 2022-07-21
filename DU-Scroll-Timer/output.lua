@@ -2,6 +2,10 @@ local layer = createLayer()
 local rx, ry = getResolution()
 local time = getTime()
 
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Scroll-Timer
+-- v1.0
+
 local speed = 0.5 -- 0 to 1
 local font = loadFont("Montserrat", 128)
 
