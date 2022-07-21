@@ -3,4 +3,4 @@
 - Screen M > Advanced > Edit Content > Mode - HTML
 # Preview
 *Actual LUA is animated <br>
-![Image of Screen](DU-Amin.gif?raw=true)
+![Image of Screen](DU-Animated-Trees.gif?raw=true)
