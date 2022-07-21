@@ -18,7 +18,6 @@
 - Activate the board manualy and type "help" in the lua chat for the command list
 
 # Preview
-*Actual LUA is animated
 ![Image of Screen](DU-Player-Logger.png?raw=true)
 
 # Help Commands
