@@ -1,9 +1,11 @@
 --[[ 
 FTUE objectives screen
-
 This lua code gives a list of objectives for the player after they have finished the outpost/speeder FTUE
-
 --]]
+
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Org-Info-Screen
+-- v1.0
 
 local wrap = require('rslib').getTextWrapped
 local cos, sin, min, max = math.cos, math.sin, math.min, math.max
