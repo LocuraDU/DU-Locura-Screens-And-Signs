@@ -1,7 +1,7 @@
 # du-ore-pure-gas-display
 LUA display for t1-t5 ores, minerals, general storage, and gasses as of patch Beta v0.31.0 7/18/2022
 
-![Image of Screen](source/example.jpg?raw=true)
+![Image of Screen](DU-Basic-Storage-Capacity.jpg?raw=true)
 
 # Instructions
   - Link Programming Board: Screen & Hub or Container (link order not important).
