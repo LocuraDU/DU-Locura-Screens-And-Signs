@@ -7,8 +7,13 @@ local front = createLayer()
 local font = loadFont('FiraMono', 20)
 local fontAH, fontDH = getFontMetrics(font)
 
+-- https://github.com/EricHamby/DU-LUA-Scripts
+-- DU-Wave-Text
+-- v1.0
+
 -- Set default text color to white
 setDefaultFillColor(layer, Shape_Text, 1, 1, 1, 1)
+-- Set background color
 setBackgroundColor( 15/255,24/255,29/255)
 
 if not init then
