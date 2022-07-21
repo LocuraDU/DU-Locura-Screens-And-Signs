@@ -19,7 +19,7 @@
 
 # Preview
 *Actual LUA is animated
-![Image of Screen](DU-Wave-Text.png?raw=true)
+![Image of Screen](DU-Player-Logger.png?raw=true)
 
 # Help Commands
 - 'clear' [clear the databank(s)]
