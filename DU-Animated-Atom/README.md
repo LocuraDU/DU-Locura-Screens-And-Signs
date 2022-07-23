@@ -4,6 +4,10 @@
 # Information
 This is a cool animation that could be used for an organization, ship, or store logo or even a background for putting text over.
 
+# Preview
+*Actual LUA is animated <br>
+![Image of Screen](DU-Animated-Atom.gif?raw=true)
+
 # Install
 - Paste contents of "output.html" into following...
 - Screen M > Advanced > Edit Content > Mode - HTML
@@ -28,7 +32,3 @@ This is a cool animation that could be used for an organization, ship, or store 
 - :blue_square: Vertical Sign XS
 - :blue_square: Vertical Sign M
 - :blue_square: Vertical Sign L
-
-# Preview
-*Actual LUA is animated <br>
-![Image of Screen](DU-Animated-Atom.gif?raw=true)
