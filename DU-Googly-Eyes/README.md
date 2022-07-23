@@ -1,3 +1,6 @@
+> **Warning**
+> This README is being updated soon!
+
 # Elements Needed
 - 3 Screens/Signs
 - 1 Programming Board
