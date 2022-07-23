@@ -6,7 +6,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 - Screen M > Advanced > Edit Content > Mode - HTML
 
 > **Warning**
-> This may or may not work with other screens. You may need to work with the coding to fit your usage.
+> This may or may not work with other screens.
 
 # Preview
 *Actual LUA is animated <br>
