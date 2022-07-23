@@ -1,3 +1,6 @@
+> **Warning**
+> This README is being updated soon!
+
 # Install
 - Paste contents of "output.lua" into following...
 - Screen > Advanced > Edit Content > Mode - LUA
