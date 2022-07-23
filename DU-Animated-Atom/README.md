@@ -15,7 +15,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 > This may or may not work with other screens.
 
 # Screen And Sign Compatibility
-:blue_square: Not Tested :green_square: Working :yellow_square: Partially Working :red_square: Not Working
+:blue_square: Not Tested :green_square: Working :yellow_square: Edits Needed :red_square: Not Working
 > **Note**
 > Please post in Discussions if you can confirm a screen or sign.
 - :blue_square: Screen XS
