@@ -4,7 +4,9 @@ This is a cool animation that could be used for an organization, ship, or store 
 > Last confirmed compatible game version: 0.31.0
 
 # Preview
-*Actual LUA is animated <br>
+> **Note**
+> Animation is smooth, this gif... is not.
+
 ![Image of Screen](DU-Animated-Trees.gif?raw=true)
 
 # Install
