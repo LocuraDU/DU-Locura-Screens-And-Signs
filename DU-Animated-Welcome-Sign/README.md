@@ -1,5 +1,5 @@
 # Information
-This is a cool animation that could be used for an organization, ship, or store logo or even a background for putting text over.
+This is a cool animation that could be used for a welcome sign or many other uses.
 > **Note**
 > Last confirmed compatible game version: 0.31.0
 
