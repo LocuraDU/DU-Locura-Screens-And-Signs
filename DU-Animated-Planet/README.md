@@ -30,7 +30,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 - :blue_square: Sign XS
 - :blue_square: Sign S
 - :blue_square: Sign M
-- :green_square: Sign L
+- :yellow_square: Sign L
 - :blue_square: Vertical Sign XS
 - :blue_square: Vertical Sign M
 - :blue_square: Vertical Sign L
