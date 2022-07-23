@@ -9,10 +9,10 @@ This is a cool animation that could be used for an organization, ship, or store 
 
 # Install
 - Paste contents of "output.html" into following...
-- Screen M > Advanced > Edit Content > Mode - HTML
+- Screen/Sign > Advanced > Edit Content > Mode - HTML
 
 > **Warning**
-> This may or may not work with other screens.
+> This may or may not work with some screens or signs. Please check list below.
 
 # Screen And Sign Compatibility
 :blue_square: Not Tested :green_square: Working :yellow_square: Edits Needed :red_square: Not Working
