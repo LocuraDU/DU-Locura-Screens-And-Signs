@@ -1,3 +1,6 @@
+> **Warning**
+> This README is being updated soon!
+
 # Install
 - Paste contents of "output.html" into following...
 - Sign L > Advanced > Edit Content > Mode - HTML
