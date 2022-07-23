@@ -1,3 +1,6 @@
+> **Warning**
+> This README is being updated soon!
+
 # Install
 - Paste contents of "output.html" into following...
 - Info Button > Advanced > Edit HTML
