@@ -1,3 +1,6 @@
+# Information
+This is a cool animation that could be used for an organization, ship, store logo or even a background for putting text over.
+
 # Install
 - Paste contents of "output.html" into following...
 - Screen M > Advanced > Edit Content > Mode - HTML
