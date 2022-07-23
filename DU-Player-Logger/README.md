@@ -1,3 +1,6 @@
+> **Warning**
+> This README is being updated soon!
+
 # Elements Needed
 - 1x Programming board
 - 1x Manual Switch
