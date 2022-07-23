@@ -1,8 +1,7 @@
-> **Note**
-> Last confirmed compatible game version: 0.31.0
-
 # Information
 This is a cool animation that could be used for an organization, ship, or store logo or even a background for putting text over.
+> **Note**
+> Last confirmed compatible game version: 0.31.0
 
 # Preview
 *Actual LUA is animated <br>
@@ -26,7 +25,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 - :blue_square: Trans Screen XS
 - :blue_square: Trans Screen S
 - :blue_square: Trans Screen M
-- :blue_square: Trans Screen L
+- :green_square: Trans Screen L
 - :blue_square: Sign XS
 - :blue_square: Sign S
 - :blue_square: Sign M
