@@ -26,7 +26,7 @@ This is a cool animation that could be used for a welcome sign or many other use
 - :blue_square: Trans Screen XS
 - :blue_square: Trans Screen S
 - :blue_square: Trans Screen M
-- :green_square: Trans Screen L
+- :blue_square: Trans Screen L
 - :blue_square: Sign XS
 - :blue_square: Sign S
 - :blue_square: Sign M
