@@ -12,7 +12,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 > This may or may not work with other screens.
 
 # Screen And Sign Compatibility
-:blue_square: Not Tested :green_square: Working :yellow_square: Partially Wroking :red_square: Not Working
+:blue_square: Not Tested :green_square: Working :yellow_square: Partially Working :red_square: Not Working
 - :blue_square: Screen XS
 - :blue_square: Screen S
 - :green_square: Screen M
