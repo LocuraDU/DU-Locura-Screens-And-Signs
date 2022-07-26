@@ -1,3 +1,6 @@
+> **Warning**
+> Too many screen in an error will hurt game performance. The game will also start throttling back screen quality upon reaching a certain number of screens. Using Animations in screens will make this much worse. Only use a few animated screen in an area for best performance.
+
 # DU LUA Scripts
 DU Scripts All In One Awesome Place. A hub for code that I have created as well as others. I have a few other repo's but everything will be moved here. Some of "Locura Mining Co" code will remain private for now. 
 
