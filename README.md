@@ -26,6 +26,6 @@ If you know of something you want thats not listed here but Locura Mining Co is 
 "Locura Property Managment" is an organization that rents territories for mining or other uses. Fees are due on a pre determined bases that fits your play times. Fees are payable in Ore, Quanta, or anything else of value. 
 
 # In Game Location
-Our store is located on Alioth at "::pos{0,2,37.6035,88.7006,36.1403}". We have territory clusters (flowers) on every planet in game. Right now in store we sale raw ore, mining rigs, and LUA code.
+Our store is located on Alioth at "::pos{0,2,30.9634,107.0939,47.5806}" only 13km from M6. We have territory clusters (flowers) on every planet in game. Right now in store we sale raw ore, mining rigs, and LUA code.
 
 You may also VR at "Locura Mining Co". 
