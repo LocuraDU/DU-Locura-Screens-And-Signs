@@ -1,5 +1,6 @@
 # Information
 This is a cool animation that could be used for an organization, ship, or store logo or even a background for putting text over.
+
 > **Note**
 > Last confirmed compatible game version: 0.31.3
 
@@ -15,6 +16,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 # Install
 - Paste contents of "source.lua" into following...
 - Screen/Sign > Advanced > Edit Content > Mode - HTML
+
 > **Warning**
 > This may or may not work with some screens or signs. Please check list below.
 
