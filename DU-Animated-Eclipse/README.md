@@ -14,7 +14,7 @@ This is a cool animation that could be used for an organization, ship, or store 
 ![Image of Screen](DU-Animated-Eclipse.gif?raw=true)
 
 # Install
-- Paste contents of "source.lua" into following...
+- Paste contents of "source.html" into following...
 - Screen/Sign > Advanced > Edit Content > Mode - HTML
 
 > **Warning**
