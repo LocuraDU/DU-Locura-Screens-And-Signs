@@ -1,5 +1,5 @@
 local rx,ry = getResolution()
-
+-- Discord/Koruzarius
 if(not _init)then
     currX=0
     currImage=1
