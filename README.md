@@ -1,6 +1,9 @@
 > **Warning**
 > As of release 1.0 HTML on screens and signs is off by default. You will need to enter settings and enable them.
 
+:bangbang: | This is important
+:---: | :---
+
 > **Warning**
 > Too many screen in an area will hurt game performance. The game will also start throttling back screen quality upon reaching a certain number of screens. Using Animations in screens will make this much worse. Only use a few animated screens in an area for best performance. 
 
