@@ -69,7 +69,7 @@ A collection of screen and sign codes for Dual Universe.
 
 # Other
 > **Note**
-> Sources for above codes come from all over. I have tried to note in the code where bits have come from but some I found in random places and have no clue who to credit. If you see somehting that should be added or fixed please let me know in the Discussions section.
+> Sources for some of the above codes come from all over. I have tried to note in the code where bits have come from but some I found in random places and have no clue who to credit. If you see somehting that should be added or fixed please let me know in the Discussions section.
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
