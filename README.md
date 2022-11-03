@@ -20,12 +20,12 @@ A collection of screen and sign codes for Dual Universe.
 
 # Lua Scripts
 
-| Preview  | Name | 
-| ------------- | ------------- |
-| <img src="img/LocuraHubX16.png" height="100" width="147">  | LocuraHubX16  |
-| <img src="img/NodesSign.png" height="100" width="147">  | NodesSign  |
-| <img src="img/VoronoiDiagram.png" height="100" width="147">  | VoronoiDiagram  |
-| <img src="img/WaveText.png" height="100" width="147">  | WaveText  |
+| Preview  | Name | | | 
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="img/LocuraHubX16.png" height="100" width="147">  | LocuraHubX16  | <img src="img/LocuraHubX16.png" height="100" width="147">  | LocuraHubX16  |
+| <img src="img/NodesSign.png" height="100" width="147">  | NodesSign  | <img src="img/NodesSign.png" height="100" width="147">  | NodesSign  |
+| <img src="img/VoronoiDiagram.png" height="100" width="147">  | VoronoiDiagram  | <img src="img/VoronoiDiagram.png" height="100" width="147">  | VoronoiDiagram  |
+| <img src="img/WaveText.png" height="100" width="147">  | WaveText  | <img src="img/WaveText.png" height="100" width="147">  | WaveText  |
 
 # HTML Scripts
 
