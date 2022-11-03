@@ -22,20 +22,20 @@ A collection of screen and sign codes for Dual Universe.
 
 | Preview  | Name | Wiki |
 | ------------- | ------------- | ------------- |
-| <img src="img/LocuraHubX16.png" height="100" width="147"> | LocuraHubX16 | [![](https://img.shields.io/badge/WIKI-LocuraHubX16-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/LocuraHubX16.lua) |
-| <img src="img/NodesSign.png" height="100" width="147"> | NodesSign | [![](https://img.shields.io/badge/WIKI-NodesSign-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/NodesSign.lua) |
-| <img src="img/VoronoiDiagram.png" height="100" width="147"> | VoronoiDiagram | [![](https://img.shields.io/badge/WIKI-VoronoiDiagram-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/VoronoiDiagram.lua) |
+| <img src="img/LocuraHubX16.png" height="100" width="147"> | LocuraHubX16 | [![](https://img.shields.io/badge/WIKI-LocuraHubX16-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/LocuraHubX16) |
+| <img src="img/NodesSign.png" height="100" width="147"> | NodesSign | [![](https://img.shields.io/badge/WIKI-NodesSign-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/NodesSign) |
+| <img src="img/VoronoiDiagram.png" height="100" width="147"> | VoronoiDiagram | [![](https://img.shields.io/badge/WIKI-VoronoiDiagram-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/VoronoiDiagram) |
 | <img src="img/WaveText.png" height="100" width="147"> | WaveText | [![](https://img.shields.io/badge/WIKI-WaveText-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/WaveText.lua) |
-| <img src="img/Timer.gif" height="100" width="147"> | Timer | [![](https://img.shields.io/badge/WIKI-Timer-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Timer.lua) |
+| <img src="img/Timer.gif" height="100" width="147"> | Timer | [![](https://img.shields.io/badge/WIKI-Timer-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Timer) |
 
 # HTML Scripts
 
-| Preview  | Name | 
-| ------------- | ------------- |
-| <img src="img/Atom.gif" height="100" width="147"> | Atom | [![](https://img.shields.io/badge/WIKI-Atom-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Atom.lua) |
-| <img src="img/Eclipse.gif" height="100" width="147"> | Eclipse | [![](https://img.shields.io/badge/WIKI-Eclipse-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Eclipse.lua) |
-| <img src="img/Planet.gif" height="100" width="147"> | Planet | [![](https://img.shields.io/badge/WIKI-Planet-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Planet.lua) |
-| <img src="img/Trees.gif" height="100" width="147"> | Trees | [![](https://img.shields.io/badge/WIKI-Trees-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Trees.lua) |
+| Preview  | Name | Wiki |
+| ------------- | ------------- | ------------- |
+| <img src="img/Atom.gif" height="100" width="147"> | Atom | [![](https://img.shields.io/badge/WIKI-Atom-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Atom) |
+| <img src="img/Eclipse.gif" height="100" width="147"> | Eclipse | [![](https://img.shields.io/badge/WIKI-Eclipse-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Eclipse) |
+| <img src="img/Planet.gif" height="100" width="147"> | Planet | [![](https://img.shields.io/badge/WIKI-Planet-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Planet) |
+| <img src="img/Trees.gif" height="100" width="147"> | Trees | [![](https://img.shields.io/badge/WIKI-Trees-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Trees) |
 
 # Install LUA Code
 - Paste contents of "SCRIPTNAME.lua" into following...
