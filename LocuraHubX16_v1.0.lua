@@ -80,7 +80,7 @@ function renderHeader(title)
 end
 
 renderHeader(title)
-addText(left,smallBold,tlt1,230,120)
+addText(left,smallBold,tlt1,tlv,120)
 addText(left,smallBold,tlt2,tlv,185)
 addText(left,smallBold,tlt3,tlv,250)
 addText(left,smallBold,tlt4,tlv,315)
