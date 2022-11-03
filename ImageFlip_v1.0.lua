@@ -7,9 +7,9 @@ local backgroundImage = "assets.prod.novaquark.com/102348/3cf92ccf-e518-4456-9d9
 if not init then
     init = true
     images = { -- Add all your images to this table, as strings seperated by comma's.
-        "assets.prod.novaquark.com/102348/046f500a-e4eb-4188-ab19-6ef1a92ad7c4.jpg",  --red
-        "assets.prod.novaquark.com/102348/8a89711b-98dc-4d27-b79a-786164fdb658.jpg", -- blue
-        "assets.prod.novaquark.com/102348/d8ce629a-e940-4b20-a576-5cd289c42b9b.jpg", -- green 
+        "assets.prod.novaquark.com/130546/92f70041-2f4f-4bf7-a5b7-73d2031a5406.jpg",  --red
+        "assets.prod.novaquark.com/130546/a151c00f-38f4-4ec1-b1eb-cec983646a44.jpg", -- blue
+        "assets.prod.novaquark.com/130546/a3459a69-cda2-4153-821b-5e9256516c4e.jpg", -- green 
         }
 end
 
@@ -33,4 +33,4 @@ if backgroundImage then
     addImage(background, loadImage(backgroundImage), 0, 0, rx, ry)
 end
 
-requestAnimationFrame(15)  -- request screen refresh every 15 frames
+requestAnimationFrame(5)  -- request screen refresh every 15 frames
