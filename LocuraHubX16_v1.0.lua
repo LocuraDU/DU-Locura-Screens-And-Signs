@@ -1,4 +1,4 @@
-title='LOCURA MINING CO' -- Header Title
+title='Your Title' -- Header Title
 -- LEFT SIDE TEXT
 tlt1='Lorem ipsum' -- Left side text #1
 tlt2='Dolor sit amet' -- Left side text #2
@@ -44,31 +44,17 @@ setDefaultFillColor(front,Shape_Text,0.710,0.878,0.941,1)
 setDefaultTextAlign(left,AlignH_Left,AlignV_Baseline)
 setDefaultTextAlign(right,AlignH_Right,AlignV_Baseline)
 setBackgroundColor(15/255,24/255,29/255)
-
 tlv=230 trv=800 hlv=127.8 hrv=896
 
+-- Function from d6rks1lv3rz3r0, It does stuff.
 function DrawHub(layer,hublayer,r,g,b,CX,CY,scale)
     local rx, ry = getResolution()
     local vw = rx/100
     local vh = ry/100
-    local PX = {-0.1715,
-        -0.1715,-0.1735,-0.1735,-0.1535,
-        0,
-        0.1535,0.1735,0.1735,0.1715,
-        0.1715,
-        0.1715,0.1735,0.1735,0.1535,
-        0,
-        -0.1535,-0.1735,-0.1735,-0.1715,
-        -0.1715}
-    local PY = {0,
-        -0.055,-0.057,-0.08,-0.128,
-        -0.128,
-        -0.128,-0.08,-0.057,-0.055,
-        0,
-        0.055,0.057,0.08,0.128,
-        0.128,
-        0.128,0.08,0.057,0.055,
-        0}
+    local PX = {-0.1715,-0.1715,-0.1735,-0.1735,-0.1535,0,0.1535,0.1735,0.1735,0.1715,0.1715,
+        0.1715,0.1735,0.1735,0.1535,0,-0.1535,-0.1735,-0.1735,-0.1715,-0.1715}
+    local PY = {0,-0.055,-0.057,-0.08,-0.128,-0.128,-0.128,-0.08,-0.057,-0.055,0,
+        0.055,0.057,0.08,0.128,0.128,0.128,0.08,0.057,0.055,0}
     local r = r or R[1]
     local g = g or G[1]
     local b = b or B[1]
@@ -83,6 +69,7 @@ function DrawHub(layer,hublayer,r,g,b,CX,CY,scale)
     end
 end
 
+-- Function from Jericho1060, It does other stuff.
 function renderHeader(title)
     h_factor=12
     h=35
