@@ -19,14 +19,22 @@ A collection of screen and sign codes for Dual Universe.
 [![](https://img.shields.io/github/license/LocuraDU/DU-Locura-Screens-And-Signs?label=LICENSE&style=flat-square)](#)
 
 # Lua Scripts
-| <img src="img/LocuraHubX16.png" height="136" width="200">  | <img src="img/NodesSign.png" height="136" width="200"> | <img src="img/VoronoiDiagram.png" height="136" width="200">  | <img src="img/WaveText.png" height="136" width="200"> |
-| ------------- | ------------- | ------------- | ------------- |
-| LocuraHubX16  | NodesSign  | VoronoiDiagram  | WaveText  |
+
+| Preview  | Name | 
+| ------------- | ------------- |
+| <img src="img/LocuraHubX16.png" height="100" width="147">  | LocuraHubX16  |
+| <img src="img/NodesSign.png" height="100" width="147">  | NodesSign  |
+| <img src="img/VoronoiDiagram.png" height="100" width="147">  | VoronoiDiagram  |
+| <img src="img/WaveText.png" height="100" width="147">  | WaveText  |
 
 # HTML Scripts
-| <img src="img/Atom.gif" height="136" width="200">  | <img src="img/Eclipse.gif" height="136" width="200"> | <img src="img/Planet.gif" height="136" width="200">  | <img src="img/Trees.gif" height="136" width="200"> |
-| ------------- | ------------- | ------------- | ------------- |
-| Atom  | Eclipse  | Planet  | Trees  |
+
+| Preview  | Name | 
+| ------------- | ------------- |
+| <img src="img/Atom.gif" height="100" width="147">  | Atom  |
+| <img src="img/Eclipse.gif" height="100" width="147">  | Eclipse  |
+| <img src="img/Planet.gif" height="100" width="147">  | Planet  |
+| <img src="img/Trees.gif" height="100" width="147">  | Trees  |
 
 # Install LUA Code
 - Paste contents of "SCRIPTNAME.lua" into following...
