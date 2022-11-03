@@ -69,9 +69,7 @@ A collection of screen and sign codes for Dual Universe.
 
 # Other
 > **Note**
-> - This was originally a fork from (https://github.com/DorianTheGrey).
-> - Also Based on work by (https://github.com/paulheu).
-> - Also Based on work by (https://github.com/Jericho1060).
+> Sources for above codes come from all over. I have tried to note in the code where bits have come from but some I found in random places and have no clue who to credit. If you see somehting that should be added or fixed please let me know in the Discussions section.
 
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
