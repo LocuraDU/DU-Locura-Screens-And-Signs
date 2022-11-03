@@ -26,6 +26,7 @@ trt8='Deserunt mollit anim' -- Right side text #8
 -- Code: GitHub/LocuraDU & GitHub/Jericho1060 & GitHub/d6rks1lv3rz3r0
 -- Design: GitHub/LocuraDU & GitHub/Jericho1060 & GitHub/d6rks1lv3rz3r0
 -- Info: LocuraDU is a mod hub for many games by GitHub/CredenceHamby
+-- Love With Your Heart, Use Your Head For Everything Else - Captain Disillusion
 
 rx,ry=getResolution()
 back=createLayer()
