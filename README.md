@@ -1,17 +1,53 @@
-:heavy_exclamation_mark: | As of release 1.0 HTML on screens and signs is off by default. You will need to enter settings and enable them.
+# Information
+A collection of screen and sign codes for Dual Universe. 
+
+[![](https://img.shields.io/badge/DU-1.0.10-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
+![](https://komarev.com/ghpvc/?username=DU-Locura-Screens-And-Signs&style=for-the-badge)
+---
+[![](https://img.shields.io/github/issues/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/issues-closed/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/watchers/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=WATCHERS)](#)
+[![](https://img.shields.io/github/stars/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=STARS)](#)
+[![](https://img.shields.io/github/forks/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=FORKS)](#)
+[![](https://img.shields.io/github/commit-activity/m/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=COMMIT%20ACTIVITY)](#)
+[![](https://img.shields.io/github/discussions/locuradu/DU-Locura-Screens-And-Signs?label=DISCUSSIONS&style=flat-square)](#)
+[![](https://img.shields.io/github/last-commit/locuradu/DU-Locura-Screens-And-Signs?label=LAST%20COMMIT&style=flat-square)](#)
+[![](https://img.shields.io/github/contributors/locuradu/DU-Locura-Screens-And-Signs?label=CONTRIBUTORS&style=flat-square)](#)
+[![](https://img.shields.io/github/releases/locuradu/DU-Locura-Screens-And-Signs?label=RELEASES&style=flat-square)](#)
+[![](https://img.shields.io/github/repo-size/LocuraDU/DU-Locura-Screens-And-Signs?label=REPO%20SIZE&style=flat-square)](#)
+[![](https://img.shields.io/github/license/LocuraDU/DU-Locura-Screens-And-Signs?label=LICENSE&style=flat-square)](#)
+
+# Lua Scripts
+| <img src="img/LocuraHubX16.png" height="136" width="200">  | <img src="img/NodesSign.png" height="136" width="200"> | <img src="img/VoronoiDiagram.png" height="136" width="200">  | <img src="img/WaveText.png" height="136" width="200"> |
+| ------------- | ------------- | ------------- | ------------- |
+| LocuraHubX16  | NodesSign  | VoronoiDiagram  | WaveText  |
+
+# HTML Scripts
+| <img src="img/Atom.gif" height="136" width="200">  | <img src="img/Eclipse.gif" height="136" width="200"> | <img src="img/Planet.gif" height="136" width="200">  | <img src="img/Trees.gif" height="136" width="200"> |
+| ------------- | ------------- | ------------- | ------------- |
+| Atom  | Eclipse  | Planet  | Trees  |
+
+# Install LUA Code
+- Paste contents of "SCRIPTNAME.lua" into following...
+- Screen/Sign > Advanced > Edit Content > Mode - LUA
+
+# Install HTML Code
+:heavy_exclamation_mark: | HTML  on screens and signs is off by default. You will need to enter settings and enable them.
 :---: | :---
+- Paste contents of "SCRIPTNAME.html" into following...
+- Screen/Sign > Advanced > Edit Content > Mode - HTML
 
-> **Warning**
-> Too many screen in an area will hurt game performance. The game will also start throttling back screen quality upon reaching a certain number of screens. Using Animations in screens will make this much worse. Only use a few animated screens in an area for best performance. 
-
-# DU Animated Screens And Signs
-DU Scripts All In One Awesome Place. A hub for code that I have created as well as others.
-
-# Install
-Click on each LUA script to see the readme for installing and preview.
-
-# Buying LUA
-If you know of something you want thats not listed here but Locura Mining Co is using it, you may contact us to set it up for you at your own place. However most code will be DRM locked. Code listed here will mostly be for sale in our shop if you want in game examples. 
+# Screen And Sign Compatibility
+:blue_square: Not Tested :green_square: Working :yellow_square: Partially Works Without Edits :red_square: Not Working Without Edits
+> **Note**
+> Please post in Discussions if you can confirm a screen or sign.
+- :green_square: Screens
+- :green_square: Modern Screens
+- :green_square: Transparent Screens
+- :green_square: Modern Transparent Screens
+- :green_square: Signs
+- :green_square: Vertical Signs
 
 # Ways To Help
 - Contribute new code, or updating whats already here
@@ -19,16 +55,18 @@ If you know of something you want thats not listed here but Locura Mining Co is 
 - Join or start a discussion on the discussions tab
 
 # In Game
-- CredenceH
-- Locura
-- NoobTheory
+- CredenceH (Dual Universe)
+- Locura (Dual Universe)
+- NoobTheory (Dual Universe)
 
-# Organization
-"Locura Mining Co" is a mining only org that also serves as a hub for our LUA code, mining rig sales, and raw ore sales. We also buy all ore. join today for help and free equipment for mining.
+# Other
+> **Note**
+> - This was originally a fork from (https://github.com/DorianTheGrey).
+> - Also Based on work by (https://github.com/paulheu).
+> - Also Based on work by (https://github.com/Jericho1060).
 
-"Locura Property Managment" is an organization that rents territories for mining or other uses. Fees are due on a pre determined bases that fits your play times. Fees are payable in Ore, Quanta, or anything else of value. 
+> **Warning**
+> This may or may not work with some screens or signs. Please check list above for compatibility.
 
-# In Game Location
-Our store is located on Alioth at "::pos{0,2,30.9634,107.0939,47.5806}" only 13km from M6. We have territory clusters (flowers) on every planet in game. Right now in store we sale raw ore, mining rigs, and LUA code.
-
-You may also VR at "Locura Mining Co". 
+> **Warning**
+> Too many screen in an area will hurt game performance. The game will also start throttling back screen quality upon reaching a certain number of screens. Using Animations in screens will make this much worse. Only use a few animated screens in an area for best performance.
