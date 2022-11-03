@@ -1,9 +1,27 @@
+-- ↓ START EDITABLE OPTIONS ↓ --
+text = 'LOCURA MINING CO' -- What you want it to say
+textSize = 100 -- Bigger means bigger, smaller means smaller
+DaFont = 6 -- The Font
+isVerticalText = false -- False if you want horizontal
+totalDots = 200 -- Too many can crash the script, you have been warned
+dotSpeed = 12 -- How fast the dots CAN move: Speed is random between 0 and selected dot speed
+textColor = {Red = 1.0, Green = 1.0, Blue = 1.0, Opacity = 1.0} -- Text color and opacity
+dotColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Dot color and opacity
+lineColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Line color and opacity
+backColor = {Red = 0.05, Green = 0.05, Blue = 0.05} -- Background color
+rotate = true -- To rotate or not to rotate
+-- ↑ END EDITABLE OPTIONS ↑ --
+
+-- DONT EDIT BELOW THIS LINE --
+
+-- Information / Updates / Downloads: GitHub/LocuraDU 
+-- Code: GitHub/LocuraDU & Unknown
+-- Design: Unknown
+-- Info: LocuraDU is a mod hub for many games by GitHub/CredenceHamby
+-- Love With Your Heart, Use Your Head For Everything Else - Captain Disillusion
+
 backLayer = createLayer()
 textLayer = createLayer()
-
--- https://github.com/EricHamby/DU-LUA-Scripts
--- DU-Nodes-Sign
--- v1.0
 
 if not init then -- Start Init
     init = true
@@ -24,20 +42,6 @@ if not init then -- Start Init
     fontStyles[12] = 'RobotoMono-Bold'
     
     
-    --############# EDIT HERE ##############
-    text = 'LOCURA MINING CO' -- What you want it to say
-    textSize = 100 -- Bigger means bigger, smaller means smaller
-    selectedFont = fontStyles[2] -- The Font
-    isVerticalText = false -- False if you want horizontal
-    totalDots = 200 -- Too many can crash the script, you have been warned
-    dotSpeed = 12 -- How fast the dots CAN move: Speed is random between 0 and selected dot speed
-    textColor = {Red = 1.0, Green = 1.0, Blue = 1.0, Opacity = 1.0} -- Text color and opacity
-    dotColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Dot color and opacity
-    lineColor = {Red = 0.2, Green = 2.0, Blue = 0.2, Opacity = 1.0} -- Line color and opacity
-    backColor = {Red = 0.05, Green = 0.05, Blue = 0.05} -- Background color
-    rotate = true -- To rotate or not to rotate
-    --############# END EDIT ###############
-    
     -- Vars
     Screen = {}
     Dots = {}
@@ -47,6 +51,7 @@ if not init then -- Start Init
     xRotation = 1
     yRotation = 1
     zRotation = 0
+    selectedFont = fontStyles[DaFont]
     
     -- Functions
     function Ternary(condition,x,y) if condition then return x else return y end end
@@ -188,4 +193,3 @@ end
 
 setBackgroundColor(backColor.Red, backColor.Green, backColor.Blue)
 requestAnimationFrame(2)
-
