@@ -26,6 +26,7 @@ A collection of screen and sign codes for Dual Universe.
 | <img src="img/NodesSign.png" height="100" width="147">  | NodesSign  |
 | <img src="img/VoronoiDiagram.png" height="100" width="147">  | VoronoiDiagram  |
 | <img src="img/WaveText.png" height="100" width="147">  | WaveText  |
+| <img src="imgTimer.png" height="100" width="147">  | Timer  |
 
 # HTML Scripts
 
