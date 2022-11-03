@@ -1,3 +1,14 @@
+-- ↓ START EDITABLE OPTIONS ↓ --
+
+-- ↑ END EDITABLE OPTIONS ↑ --
+
+-- DONT EDIT BELOW THIS LINE --
+
+-- Information / Updates / Downloads: GitHub/LocuraDU 
+-- Code: GitHub/LocuraDU & Discord/Davemane42 & GitHub/Jericho1060
+-- Design: GitHub/LocuraDU & GitHub/Jericho1060
+-- Info: LocuraDU is a mod hub for many games by GitHub/CredenceHamby
+
 local version = '1.0'
 local rx,ry = getResolution()
 local back=createLayer()
@@ -8,10 +19,6 @@ local smallBold=loadFont('Play-Bold',18)
 local storageBar = createLayer()
 local colorLayer = createLayer()
 local layer = createLayer()
-
--- DU-Locura-Timer
--- Code: GitHub/LocuraDU & Discord/Davemane42
--- Design: GitHub/LocuraDU & GitHub/Jericho1060
 
 setBackgroundColor( 15/255,24/255,29/255)
 setDefaultStrokeColor( back,Shape_Line,0,0,0,0.5)
