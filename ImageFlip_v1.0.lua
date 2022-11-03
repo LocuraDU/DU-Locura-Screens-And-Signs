@@ -7,25 +7,27 @@ local backgroundImage = "assets.prod.novaquark.com/102348/3cf92ccf-e518-4456-9d9
 if not init then
     init = true
     images = { -- Add all your images to this table, as strings seperated by comma's.
-        "assets.prod.novaquark.com/130546/92f70041-2f4f-4bf7-a5b7-73d2031a5406.jpg",  --red
-        "assets.prod.novaquark.com/130546/a151c00f-38f4-4ec1-b1eb-cec983646a44.jpg", -- blue
-        "assets.prod.novaquark.com/130546/a3459a69-cda2-4153-821b-5e9256516c4e.jpg", -- green 
+        "assets.prod.novaquark.com/130546/92f70041-2f4f-4bf7-a5b7-73d2031a5406.jpg", 
+        "assets.prod.novaquark.com/130546/a151c00f-38f4-4ec1-b1eb-cec983646a44.jpg", 
+        "assets.prod.novaquark.com/130546/a3459a69-cda2-4153-821b-5e9256516c4e.jpg",  
         }
 end
 
--- End of configuration - Do not alter below this line
+-- DONT EDIT BELOW THIS LINE --
+
+-- Information / Updates / Downloads: GitHub/LocuraDU 
+-- Code: GitHub/LocuraDU & Discord/NQ-Deckard
+-- Design: Discord/NQ-Deckard
+-- Info: LocuraDU is a mod hub for many games by GitHub/CredenceHamby
 
 local imgs = images
 local background, foreground = createLayer(), createLayer()
 local rx, ry = getResolution()
-
 local imageCount = #imgs
 local adjustedTime = getTime() / secondsBetweenImages
 local flooredTime = adjustedTime - (adjustedTime % 1)
-
 local displayedImage = loadImage(imgs[(flooredTime % imageCount) + 1])
 local preloadImage = loadImage(imgs[((flooredTime + 1) % imageCount) + 1])
-
 addImage(foreground, displayedImage, 0, 0, rx, ry)
 
 if backgroundImage then
