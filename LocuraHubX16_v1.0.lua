@@ -1,3 +1,4 @@
+-- ↓ START EDITABLE OPTIONS ↓ --
 title='Your Title' -- Header Title
 -- LEFT SIDE TEXT
 tlt1='Lorem ipsum' -- Left side text #1
@@ -17,6 +18,7 @@ trt5='Excepteur sint occaecat' -- Right side text #5
 trt6='Cupidatat non' -- Right side text #6
 trt7='Sunt in culpa' -- Right side text #7
 trt8='Deserunt mollit anim' -- Right side text #8
+-- ↑ END EDITABLE OPTIONS ↑ --
 
 -- DONT EDIT BELOW THIS LINE --
 
