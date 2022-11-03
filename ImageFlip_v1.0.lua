@@ -1,14 +1,15 @@
+-- ↓ START EDITABLE OPTIONS ↓ --
 local secondsBetweenImages = 5 -- Number of seconds between images
 local backgroundImage = "assets.prod.novaquark.com/102348/3cf92ccf-e518-4456-9d90-f115b6324b0f.jpg" -- Set to false to disable // backgroundImage = false
-
 if not init then
     init = true
-    images = { -- Add all your images to this table, as strings seperated by comma's.
+    images = { -- Add or remove a line for each mage you want to show seperated by comma's.
         "assets.prod.novaquark.com/130546/92f70041-2f4f-4bf7-a5b7-73d2031a5406.jpg", 
         "assets.prod.novaquark.com/130546/a151c00f-38f4-4ec1-b1eb-cec983646a44.jpg", 
         "assets.prod.novaquark.com/130546/a3459a69-cda2-4153-821b-5e9256516c4e.jpg",  
         }
 end
+-- ↑ END EDITABLE OPTIONS ↑ --
 
 -- DONT EDIT BELOW THIS LINE --
 
