@@ -1,6 +1,3 @@
--- Made by NQ-Deckard for Hadron ;-)
--- Start of configuration
-
 local secondsBetweenImages = 5 -- Number of seconds between images
 local backgroundImage = "assets.prod.novaquark.com/102348/3cf92ccf-e518-4456-9d90-f115b6324b0f.jpg" -- Set to false to disable // backgroundImage = false
 
