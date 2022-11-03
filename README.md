@@ -2,11 +2,12 @@
 A collection of screen and sign codes for Dual Universe. 
 
 [![](https://img.shields.io/badge/DU-1.0.11-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
-[![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
-[![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=html5)](#)
-[![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=svg)](#)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-Locura-Screens-And-Signs&style=for-the-badge)
+---
+[![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
+[![](https://img.shields.io/badge/CODE-HTML-blue?style=for-the-badge&logo=html5)](#)
+[![](https://img.shields.io/badge/CODE-SVG-red?style=for-the-badge&logo=svg)](#)
 ---
 [![](https://img.shields.io/github/issues/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
 [![](https://img.shields.io/github/issues-closed/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
