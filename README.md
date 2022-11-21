@@ -32,6 +32,7 @@ A collection of screen and sign codes for Dual Universe.
 | <img src="img/VoronoiDiagram.png" height="100" width="147"> | VoronoiDiagram | [![](https://img.shields.io/badge/WIKI-VoronoiDiagram-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/VoronoiDiagram) |
 | <img src="img/WaveText.png" height="100" width="147"> | WaveText | [![](https://img.shields.io/badge/WIKI-WaveText-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/WaveText.lua) |
 | <img src="img/Timer.gif" height="100" width="147"> | Timer | [![](https://img.shields.io/badge/WIKI-Timer-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/Timer) |
+| <img src="img/ShipPlaque.png" height="100" width="147"> | ShipPlaque | [![](https://img.shields.io/badge/WIKI-ShipPlaque-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/ShipPlaque) |
 
 # HTML Scripts
 
