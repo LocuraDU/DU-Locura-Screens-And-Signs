@@ -8,6 +8,7 @@ A collection of screen and sign codes for Dual Universe.
 [![](https://img.shields.io/badge/CODE-LUA-purple?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/CODE-HTML-blue?style=for-the-badge&logo=html5)](#)
 [![](https://img.shields.io/badge/CODE-SVG-red?style=for-the-badge&logo=svg)](#)
+[![](https://img.shields.io/badge/CODE-CSS-yellow?style=for-the-badge&logo=css3)](#)
 ---
 [![](https://img.shields.io/github/issues/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
 [![](https://img.shields.io/github/issues-closed/locuradu/DU-Locura-Screens-And-Signs?style=flat-square&label=ISSUES)](#)
