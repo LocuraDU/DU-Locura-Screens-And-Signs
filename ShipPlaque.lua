@@ -6,6 +6,10 @@ local subBottom='JUNE 14 2022 // SN : 47493765' -- Bottom Sub Text
 
 -- DONT EDIT BELOW THIS LINE --
 
+-- ABOUT
+-- This sign was made for all the Locura ships as registration plates. 
+-- Have used it also has a sign for dispensers and can still be seen in every Locura ship and around the HQ base.
+
 -- DU-Locura-Screens-And-Signs
 -- Visit GitHub/LocuraDU For Information / Updates / Downloads 
 -- Code: GitHub/CredenceHamby & GitHub/Jericho1060
