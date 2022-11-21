@@ -1,7 +1,7 @@
 # Information
 A collection of screen and sign codes for Dual Universe. 
 
-[![](https://img.shields.io/badge/DU-1.0.11-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/DU-1.0.13-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-Locura-Screens-And-Signs&style=for-the-badge)
 ---
