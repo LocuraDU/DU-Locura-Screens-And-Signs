@@ -28,6 +28,7 @@ A collection of screen and sign codes for Dual Universe.
 | Preview  | Name | Wiki |
 | ------------- | ------------- | ------------- |
 | <img src="img/LocuraHubX16.png" height="100" width="147"> | LocuraHubX16 | [![](https://img.shields.io/badge/WIKI-LocuraHubX16-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/LocuraHubX16) |
+| <img src="img/LocuraHubX25.png" height="100" width="147"> | LocuraHubX25 | [![](https://img.shields.io/badge/WIKI-LocuraHubX25-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/LocuraHubX25) |
 | <img src="img/NodesSign.png" height="100" width="147"> | NodesSign | [![](https://img.shields.io/badge/WIKI-NodesSign-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/NodesSign) |
 | <img src="img/VoronoiDiagram.png" height="100" width="147"> | VoronoiDiagram | [![](https://img.shields.io/badge/WIKI-VoronoiDiagram-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/VoronoiDiagram) |
 | <img src="img/WaveText.png" height="100" width="147"> | WaveText | [![](https://img.shields.io/badge/WIKI-WaveText-blue?style=for-the-badge)](https://github.com/LocuraDU/DU-Locura-Screens-And-Signs/wiki/WaveText.lua) |
