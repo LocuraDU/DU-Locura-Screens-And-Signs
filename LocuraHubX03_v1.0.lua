@@ -3,7 +3,6 @@
 tl01='TEXT01'
 tl02='TEXT02'
 tl03='TEXT03'
-
 -- ↑ END EDITABLE OPTIONS ↑ --
 
 -- DONT EDIT BELOW THIS LINE --
@@ -20,6 +19,7 @@ back=createLayer()
 front=createLayer()
 left=createLayer()
 right=createLayer()
+backlayer = createLayer()
 
 small=loadFont('Play',14)
 smallBold=loadFont('Play-Bold',18)
@@ -55,9 +55,26 @@ function DrawHub(layer,hublayer,r,g,b,CX,CY,scale)
     local scale = scale or 2
     setDefaultStrokeWidth(front,Shape_Line,scale*1*vh)
     setDefaultStrokeColor(front,Shape_Line,r,g,b, 1) 
-    setDefaultFillColor(front,Shape_Polygon,r + 1,g + 1,b + 1, 1) 
+    setDefaultFillColor(backlayer,Shape_Polygon,0.075,0.125,0.156, 1) 
     for ii = 1,#PX-1,1 do
         addLine(layer, scale*PX[ii]*rx + CX, scale*PY[ii]*ry + CY, scale*PX[ii+1]*rx + CX, scale*PY[ii+1]*ry + CY) 
+    end
+    
+     addTriangle(backlayer, 
+        scale*PX[2]*rx + CX, scale*PY[2]*ry + CY, 
+        scale*PX[#PX-1]*rx + CX, scale*PY[#PX-1]*ry + CY, 
+        CX, CY)
+
+    addTriangle(backlayer, 
+        -scale*PX[2]*rx + CX, scale*PY[2]*ry + CY, 
+        -scale*PX[#PX-1]*rx + CX, scale*PY[#PX-1]*ry + CY, 
+        CX, CY)
+
+    for ii = 1,#PX-1,1 do
+        addTriangle(backlayer, 
+            -scale*PX[ii]*rx + CX, scale*PY[ii]*ry + CY, 
+            -scale*PX[ii+1]*rx + CX, scale*PY[ii+1]*ry + CY, 
+            CX, CY)
     end
 end
 
