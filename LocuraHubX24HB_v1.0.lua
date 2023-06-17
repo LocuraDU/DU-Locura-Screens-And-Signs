@@ -100,7 +100,7 @@ function renderFooter(footerNote)
     addBox(front,0,ry-h-h_factor,rx,h)
     addText(front,smallBold,title,10,ry-4)
     setNextFillColor(front,0.24,0.25,0.25,1)
-    addText(front,subtext,'Locura Hub X24 v1.0',rx-90,ry-8)
+    addText(front,subtext,'Locura Hub X24HB v1.0',rx-90,ry-8)
 end
 
 renderFooter(footerNote)
