@@ -64,7 +64,6 @@ A collection of screen and sign codes for Dual Universe.
 # In Game
 - CredenceH (Dual Universe)
 - Locura (Dual Universe)
-- NoobTheory (Dual Universe)
 
 # Other
 > **Note**
